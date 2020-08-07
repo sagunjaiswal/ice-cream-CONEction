@@ -1,0 +1,25 @@
+.nav-wrapper {
+  background-color: linear-gradient(-90deg, #eb89b5, #1565c0);
+}
+
+.move {
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+.parallax-container {
+  min-height: 280px;
+  height: auto;
+}
+
+.icon-coffee {
+  color: #eb89b5;
+}
+
+.footer-one {
+  background-color: black;
+}
+
+.footer-two {
+  background-color: #eb89b5;
+}
